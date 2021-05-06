@@ -15,7 +15,7 @@ namespace MVCApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page : Anoop You can .";
+            ViewBag.Message = "Your application description page : Anoop .";
 
             return View();
         }
